@@ -41046,7 +41046,7 @@ var HomePage = /*#__PURE__*/function (_React$Component) {
   }, {
     key: "render",
     value: function render() {
-      return /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement("h1", null, "Evaluacion Final EC4"), /*#__PURE__*/React.createElement("h2", null, "Teodora Pachacama Coscco"), /*#__PURE__*/React.createElement("div", {
+      return /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement("h1", null, "Evaluacion Final EC4----Teodora Pachacama Coscco"), /*#__PURE__*/React.createElement("h2", null, "TIENDA DE ELECTRODOMESTICOS"), /*#__PURE__*/React.createElement("div", {
         style: {
           "width": "100%",
           "display": "flex"
