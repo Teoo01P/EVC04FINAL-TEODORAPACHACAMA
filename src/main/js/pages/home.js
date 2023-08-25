@@ -52,7 +52,7 @@ const Titulo = (props) => {
 			<hr />
 			<h2>{props.emoji} - {props.entidad}</h2>
 			<hr />
-			Lista completa de {props.entidad.toLowerCase()}
+			Lista de {props.entidad.toLowerCase()}
 		</>
 	)
 }

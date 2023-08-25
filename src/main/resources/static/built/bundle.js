@@ -41079,7 +41079,7 @@ var HomePage = /*#__PURE__*/function (_React$Component) {
   return HomePage;
 }(React.Component);
 var Titulo = function Titulo(props) {
-  return /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement("hr", null), /*#__PURE__*/React.createElement("h2", null, props.emoji, " - ", props.entidad), /*#__PURE__*/React.createElement("hr", null), "Lista completa de ", props.entidad.toLowerCase());
+  return /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement("hr", null), /*#__PURE__*/React.createElement("h2", null, props.emoji, " - ", props.entidad), /*#__PURE__*/React.createElement("hr", null), "Lista de ", props.entidad.toLowerCase());
 };
 var ProductoList = /*#__PURE__*/function (_React$Component2) {
   _inherits(ProductoList, _React$Component2);
